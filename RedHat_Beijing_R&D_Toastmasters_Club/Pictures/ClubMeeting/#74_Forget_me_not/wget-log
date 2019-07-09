@@ -1,0 +1,11 @@
+--2019-07-09 11:14:26--  https://happywall-img-gallery.imgix.net/3459/forget_me_not_flowers_list.jpg?h=670
+正在解析主机 happywall-img-gallery.imgix.net (happywall-img-gallery.imgix.net)... 151.101.78.208, 2a04:4e42:12::720
+正在连接 happywall-img-gallery.imgix.net (happywall-img-gallery.imgix.net)|151.101.78.208|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：114519 (112K) [image/jpeg]
+正在保存至: “forget_me_not_flowers_list.jpg?h=670”
+
+forget_me_not_flowers_list.jpg?h=670                          0%[                                                                                                                                          ]       0  --.-KB/s               forget_me_not_flowers_list.jpg?h=670                         49%[===================================================================>                                                                      ]  55.56K   224KB/s               forget_me_not_flowers_list.jpg?h=670                        100%[=========================================================================================================================================>] 111.83K   312KB/s  用时 0.4s    
+
+2019-07-09 11:14:27 (312 KB/s) - 已保存 “forget_me_not_flowers_list.jpg?h=670” [114519/114519])
+
